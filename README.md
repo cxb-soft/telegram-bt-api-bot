@@ -6,7 +6,7 @@
 4.将API KEY填入example.php中，并在index.php配置服务<br>
 5.完成
 
-### DEMO : @x_svbot
+### DEMO : https://t.me/x_svbot
 
 ## 使用愉快！
 
