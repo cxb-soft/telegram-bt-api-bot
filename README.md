@@ -9,3 +9,6 @@
 ### DEMO : @x_svbot
 
 ## 使用愉快！
+
+## TIPS:
+bt官方API文档 ： https://www.bt.cn/api-doc.pdf
